@@ -1,6 +1,6 @@
 # 3D-Virtual-Environment
 Homework Assignment 1. A bookstore scene created in Unity
-
+![alt text](https://raw.githubusercontent.com/saayv1/3D-Virtual-Environment/master/Screen Shot 2018-05-08 at 9.13.43 PM.png)
 # Requirements
 
 * Unity 2017.3.1
